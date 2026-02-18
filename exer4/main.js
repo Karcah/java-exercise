@@ -44,12 +44,9 @@ console.log(natiijo/3)
 
 
 
+let salaan = (name)=>{
 
+    console.log("hello "+name)
+}
 
-
-
-
-
-
-
-
+salaan("hurfe"); 
