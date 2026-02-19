@@ -31,3 +31,9 @@ salaan("hurfe");
 salaan("muhidiin");
 
 salaan ("ramadan");
+
+
+
+
+
+
