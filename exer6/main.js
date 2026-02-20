@@ -25,8 +25,4 @@ console.log(colors[5]);
 
 
 
- function ahmed (){
 
-
-    
- }

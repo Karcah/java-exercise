@@ -35,7 +35,3 @@ salaan ("ramadan");
 
 
 
-
-
-
-
