@@ -9,14 +9,20 @@ let car = {
  year : 2026,
 
 
+greet :  function () {
+
+console.log("hello  "+this.model);
+} 
+
 }
 
+car.make ="Honda";
 
-console.log(car);
+
+car.kir = "black";
+
+console.log(car.kir);
 
 
-console.log(car.make);
+console.log(car.greet());
 
-console.log(car["model"]);
-
-console.log(car["year"]);
