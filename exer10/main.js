@@ -13,11 +13,9 @@ title:"dalka",
   year:2025},
 
 ]
-    
-console.log(library[0].title);
 
-console.log(library[1].author);
+// console.log(library[0].title);
 
-
+// console.log(library[1].author);
 
 

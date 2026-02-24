@@ -5,12 +5,7 @@
 
 
 
-let colors = [ "red", "blue", "green", "yellow", "purple"]
-
-
-
-
-
+let colors = ["red", "blue", "green", "yellow", "purple"]
 
 
 

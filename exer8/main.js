@@ -16,12 +16,10 @@ console.log("hello  "+this.model);
 
 }
 
-car.make ="Honda";
 
 
-car.kir = "black";
 
-console.log(car.kir);
+
 
 
 console.log(car.greet());

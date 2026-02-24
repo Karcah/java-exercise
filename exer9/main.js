@@ -14,9 +14,6 @@ console.log("the car has started");
 
 }
 
-car.engine = "V6";
-
-car.make = "Honda";
 
 
 
