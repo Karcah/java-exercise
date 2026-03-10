@@ -7,7 +7,7 @@
 
 
 
-  numbers.forEach( (numbers) =>
+  numbers.forEach( numbers =>
 
     console.log("Number "+numbers)
 
