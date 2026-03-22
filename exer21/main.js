@@ -11,3 +11,6 @@ const multi = numbers.reduce((total, num)=> total * num, 1
 
 
 console.log(multi)
+
+
+let 
